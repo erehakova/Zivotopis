@@ -1,3 +1,89 @@
+body {
+  color: #282425;
+  background-color: #f8f8f8;
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  line-height: 1.5;
+  text-align: center;
+  margin: 0;
+
+}
+
+h1,
+h3,
+h4,
+a {
+  color: #446856;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+}
+
 h1 {
-  color: red;
+  font-size: 80px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 48px;
+  text-align: center;
+  margin: 0;
+}
+
+h4 {
+  font-size: 24px;
+
+  text-align: center;
+  margin: 10px;
+}
+
+a {
+  font-style: italic;
+}
+
+
+.KONTAKT {
+  background-color: #e0e0e0;
+}
+
+.VLASTNOSTI {
+  background-color: #e0e0e0;
+}
+
+.DOVEDNOSTI {
+  background-color: #e0e0e0;
+}
+
+.ZNALOSTI {
+  background-color: #e0e0e0;
+}
+
+.PATICKA {
+  background-color: #282425;
+  color: white;
+  padding: 20px 0;
+}
+
+.foto-omne {
+  width: 200px;
+  border: #756158 solid 2px;
+  border-radius: 50px;
+}
+
+section,
+header {
+  padding: 25px 15%;
+}
+
+.hlavicka {
+  padding: 190px 30px;
+  background-image: url(obrázky/hlavicka2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
 }
